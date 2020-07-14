@@ -1,3 +1,4 @@
 this is the first file with 0 features.
 Some changed made to the file.
 Change 1 made to the file.
+Change 2 made to the file.
