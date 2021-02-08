@@ -3,8 +3,8 @@
         CHIP8 EMULATION - A simple Chip8 emulator written in C
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    About Chip8
-    ~~~~~~~~~~~
+        About Chip8
+        ~~~~~~~~~~~
         Chip-8 is a simple, interpreted, programming language which was first used on
         some do-it-yourself computer systems in the late 1970s and early 1980s.
         The COSMAC VIP, DREAM 6800, and ETI 660 computers are a few examples.
@@ -14,15 +14,15 @@
         which were entered into the computer in hexadecimal, were even smaller.
 
         (quote) http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
-         More on: https://en.wikipedia.org/wiki/CHIP-8
+        More on: https://en.wikipedia.org/wiki/CHIP-8
 
-    Author
-    ~~~~~~
+        Author
+        ~~~~~~
         Soumyajeet Mandal, https://github.com/s0umyajeet
         Sunday, 8 February 2021
 
-    Note
-    ~~~~
+        Note
+        ~~~~
         All references and diagrams taken from:
         ``` Cowgod's Chip-8 Technical Reference v1.0 ```
         http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
